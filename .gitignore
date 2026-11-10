@@ -1,0 +1,8 @@
+   # Course dataset (not redistributed)
+   images/
+   *.jsonl
+   *.zip
+
+   # Python / notebooks
+   __pycache__/
+   .ipynb_checkpoints/
